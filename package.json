@@ -1,0 +1,13 @@
+{
+  "name": "revision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.49",
+    "react": "^16.13.1"
+  }
+}
